@@ -1,0 +1,18 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #sphinx, #start-model
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 5px 5px 38px grey;
+    border: 3px black solid;
+    border-radius: 10px;
+}
